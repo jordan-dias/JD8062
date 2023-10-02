@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JD8062
+- 👋 Hi, I’m @jordan-dias
 - 👀 I’m interested in Data Science and Machine Learning. 
 - 🌱 I’m currently learning ML and DL algorithms and model building.
 - 💞️ I’m looking to collaborate to Data Science community by sharing my work to inspire and educate others
